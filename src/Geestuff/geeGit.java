@@ -6,6 +6,7 @@ public class geeGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("first person");
+		System.out.println("first person and first edit");
 	}
 
 }
